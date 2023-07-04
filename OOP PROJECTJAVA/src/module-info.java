@@ -1,0 +1,2 @@
+module askisi_java {
+}
